@@ -1,7 +1,7 @@
 # SURELINE
 
 <p align="center">
-  <img src="assets/sureline-mark.png" alt="SURELINE Logo" width="160" />
+  <img src="sureline.jpeg" alt="SURELINE Logo" width="160" />
 </p>
 
 <p align="center">
